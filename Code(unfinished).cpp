@@ -4,7 +4,7 @@
 using namespace std;
 
 void output(string map[][20]);
-void read(string map[][20]);
+void read(string map[][20]); // bad idea
 void write(string map[][20]);
 
 const int row = 20;
